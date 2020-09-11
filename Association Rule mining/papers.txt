@@ -1,0 +1,80 @@
+1)	Analysis of Urine Samples to Classify as Hydrated or Dehydrated using Image Processing and XGboost Model
+Abstract: Aims to Classify patient urine image samples into hydrated or dehydration to provide alternative to Time consuming,labor intensive traditional Lab testing procedure to track patients body's hydration levels linked to several ominous disorders.The Proposed Methodology involves Image processing Techniques such as image acquition,color transformation,image segmentation and feature extraction implemented using skimage from python , and Machine Learning Esemble Boosting XGBoost improvised using Feature importance and Feature Scaling.
+
+DOI /Link : http://doi.org/10.22214/ijraset.2020.1053
+
+2)	Association Rule Mining of Inactive Ingredients in Drugs
+Abstract: Paper presents Methodolgy to extract strong association rules by frequent occuring inactive ingredients combination using Apriori principle in order to better formulation of drugs ,by avoiding unnecessary inactive ingredients ,which have been documentated to be potential allergens and have adverse side effects in some cases for patients.Implementation in Python for proposed Methodology generates insights can be used by pharamaceutical companies to better formulated new precision drugs based on popularity and effectiveness drug brands in the market using Examples of acetaminophen,ibroprofen and asprin generic drug available medicines brands in US market.
+
+DOI /Link :	http://doi.org/10.22214/ijraset.2020.1068
+
+
+3)	Detecting Malaria from Segmented Cell Images of Thin Blood Smear Dataset using Keras from Tensorflow 
+Abstract: paper presents generalized methodology with python implementation to detect malaria from segmented Cell images of Thin blood Smear dataset using Convolution Neural network Architecture having multiple layers of Relu,pooling , Fully connected Layers provided by Keras class in Tensorflow.paper discuss the method of data segregation , data preparation using Image Generator class, Training and validation the model in Tensorflow CNN models.
+
+DOI /Link : http://doi.org/10.22214/ijraset.2020.1109
+
+
+4)	Determining Suitable Conditions required for Finger Millets Seeds Germination using Decision Tree Algorithm
+Abstract: paper demonstrates methodology to determine optimal conditions required for the germination of crop for instance Ragi crops using data generated from Multiple Sensors on Ardunio Uno for assessing Environmental factors like Temperature,Soil Moisture , Light  and Humidity. Data is analysed using Decision Tree Model using in scikit package. These insights from formed decision tree ruleset,along with feature importance can be utilized by farmers and agricultural scientist to enhance crop productivity ,yield and revenue generation.
+
+DOI /Link : http://doi.org/10.22214/ijraset.2020.2009
+
+
+5)	Estimation of Iron using Multiple Linear Regression Models
+Abstract: paper presents an alternative methodology to the colorimeteric estimation of Iron using coloring reagents.Iron is one of the most crucial requirement for both plants and human health which makes determining concentration of Iron useful in many areas of research and technology. Methodology uses data/image collection from chemical procedure, feature extraction ,feature selection,data visualization via heatmap,scatter matrix for variable correlations and Building accurate multiple linear regression models to Estimate iron concentration in sample based on reagent coloration (KCNS,FAS,Nitric acid)
+
+DOI /Link : http://doi.org/10.22214/ijraset.2020.2113
+
+6)	Detecting Crows on Sowed Crop Fields using Simplistic Image processing Techniques s by Open CV in comparison with TensorFlow Image Detection API
+Abstract: paper discussed image processing based implementation and methodology inclusive of color transformation,image segmentations,noise reduction and morphological operations by Open CV, in comparison with pre-trained COCO TensorFlow Image Detection API(YOLO) to detect birds such as crows in crop fields to locate and deploy efficient scarring techniques to minimize the loss of crops by birds and impact on bird biodiversity.
+
+DOI /Link : http://doi.org/10.22214/ijraset.2020.3014
+
+
+7)	Understanding Viewers Sentiment on Skin Whitening Glutathione Product Review using YouTube Comments 
+Abstract: Paper shares research on Indian's sentiment analysis on using glutatione for Skin whitening from youtube comments collected by selenium automation, textblob nlp framework,and custom designing Naïve bayes classifier for classification of newer context comments in python
+
+DOI /Link: http://doi.org/10.22214/ijraset.2020.3066
+
+
+8)	Tracking the Spread of COVID-19 Cases in India using Data Visualizing and Forecasting Techniques
+Abstract: Paper presents various data visualization implementation using plotly and matplotlib libraries to extract insights from web scrapped covid-19 data in details for India in particular, This can help access and track the covid-19 cases in india across states and take preemptive steps to reduce risk of lives and economy.This paper also demonstrates implementation of various forecasting models such as holt winter, fbprophet, ARIMA models which can help countries goverments and health workers to take steps to curb the forecasted growth of covid cases.
+
+DOI / Link: http://doi.org/10.22214/ijraset.2020.5076
+
+9)	Accelerated Diagnosis and Reporting of Patients using Analysis of Bulk Chest X-ray Images to Aid Impacted Healthcare System during Covid19
+Keywords: Kmeans, PCA, Pickle, Bulk reporting, SVM, CNN, Tensorflow,kaggle,python
+
+DOI /Link: http://doi.org/10.22214/ijraset.2020.5168
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Existing Publication during Undergraduate Studies:
+
+1)	Detection of Weeds in a Crop Row Using Image Processing (Matlab, 2016)
+Link: https://www.researchgate.net/publication/339416227_Detection_of_Weeds_in_a_Crop_Row_Using_Image_Processing
+
+2)	Estimation of Nitrogen in Rice Plant Using Image Processing and Artificial Neural Networks (Matlab, 2016)
+Link:https://www.researchgate.net/publication/339416174_Estimation_of_Nitrogen_in_Rice_Plant_Using_Image_Processing_and_A rtificial_Neural_Networks
+
+3)	Techinal Seminar : Brain Computer Interface controlled wheel Chair the Next Generation User Interface assisted by ANN Link:https://www.researchgate.net/publication/341344994_BRAIN_COMPUTERINTER_FACE_CONTROLLED_WHEELCHAIR_THE_NE XT_GENERATION_USER_INTERFACE
+Won best Technical Seminar presentation for 2016 CSE batch
+
+4)	National Conference: Image Procesing Based Methodologies for Precision Agriculture (2017)
+Presented conference paper in National Conference - JNANA CHILUME -2017 on 25th March 2017 in Recent Advances in Computer Sciences & Information Technology (RACSIT-17)
+Won the Best Paper Presentation Award in RACSIT
+ 
+
+
